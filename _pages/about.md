@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![picture]{/images/HDSI_Headshot.jpg}{: .align-right width="300px"}
+![picture](/images/HDSI_Headshot.jpg){: .align-right width="300px"}
 I am currently pursuing my Master's Degree in Data Science from University of California San Diego.
 
 I completed my Bachelor of Engineering in Computer Engineering from Mumbai University in May 2023.
